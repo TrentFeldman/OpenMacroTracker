@@ -4,6 +4,7 @@
 This repo is a full-stack implementation of a macro tracker and general fitness app. Bypass all need for paywalls, selfhost, and make it yours! More details coming soon.
 
 
-Created by Trent Feldman, Steven and Nicholas Mink, and Mohamued Mered
+Created by Trent Feldman, Steven and Nicholas Mink, and Mohammed Mered
+
 
 
